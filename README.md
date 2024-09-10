@@ -52,7 +52,7 @@ df.describe()
 
 
 ```
-df.shape()
+df.shape
 ```
 ![Screenshot 2024-09-10 094627](https://github.com/user-attachments/assets/e5260e4a-6d9b-4a0e-897a-5c45617c95ae)
 
